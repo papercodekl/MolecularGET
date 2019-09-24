@@ -40,7 +40,22 @@ bash pre.sh
 ```
 
 ## Train the model
-The "data2" contains the training dataw
+The "data2" contains UPSTO-50K without reaction type. To train the model, 
 ```
 bash train.sh
+```
+The parameter settings we used can be found in "train.sh". You can modify the saving location of the model (default is experiments/checkpoints2). 
+
+## Translation
+To generate the output SMILES, 
+```
+bash trans.sh
+```
+Default settings is to generate top-10 candidates.
+
+## Evaluation
+
+To evaluate our model, 
+```
+bash eval.sh
 ```
