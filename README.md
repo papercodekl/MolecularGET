@@ -44,7 +44,7 @@ The "data2" contains UPSTO-50K without reaction type. To train the model,
 ```
 bash train.sh
 ```
-The parameter settings we used can be found in "train.sh". You can modify the saving location of the model (default is experiments/checkpoints2). 
+The parameter settings of the "transformer encoder" described in the paper can be found in "train.sh". You can modify the saving location of the model (default is experiments/checkpoints2). 
 
 ## Translation
 To generate the output SMILES, 
