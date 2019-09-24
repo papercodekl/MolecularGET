@@ -1,0 +1,1 @@
+python preprocess.py -train_src data2/src-train.txt -train_tgt data2/tgt-train.txt -valid_src data2/src-val.txt -valid_tgt data2/tgt-val.txt -save_data data2/seqdata -share_vocab -src_seq_length 1000 -tgt_seq_length 1000 -src_vocab_size 1000 -tgt_vocab_size 1000 -share_vocab
