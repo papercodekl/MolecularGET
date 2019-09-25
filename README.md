@@ -1,6 +1,6 @@
 # ICLR2020_MGET
 
-This is the primary code for the "GLT-C" model in "Molecular Graph Enhanced Transformer for Retrosynthesis  Prediction". Our code is based on OpenNMT and DGL.  This is just a primary version and we will improve our code in the future.
+This is the primary code for the "GET-LT1" model in "Molecular Graph Enhanced Transformer for Retrosynthesis  Prediction". Our code is based on OpenNMT and DGL.  This is just a primary version and we will improve our code in the future.
 
 ## Install requirements
 
