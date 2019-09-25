@@ -30,7 +30,7 @@ pip install dgl
 ```
 
 
-Besides, you have to replace three source files(batch.py, field.py, iterator.py) of the torchtext library in "torchtext/data"  with the corrsponding three files contained in "replace_torchtext" since we have modified some codes in these files.
+Besides, you have to replace three source files(batch.py, field.py, iterator.py) of the torchtext library in "anaconda3/envs/mget/python3.7/site-packages/torchtext/data"  with the corrsponding three files contained in "replace_torchtext" since we have modified some codes in these files.
 
 
 ## Preprocessing
