@@ -206,6 +206,7 @@ O = C ( O ) C ( F ) ( F ) F
 C [ C @ @ H ] ( c 1 c c c c c 1 ) N ( C ) c 1 n c 2 c c ( C ( = O ) O ) c c c 2 n c 1 - c 1 c c c 2 [ n H ] n c c 2 c 1
 O = C ( O C n 1 n c c ( = O ) [ n H ] c 1 = O ) c 1 c c c c 2 c c c c c 1 2
 O = S ( C C n 1 c c n n 1 ) C c 1 c c c ( O C c 2 c o c ( / C = C / c 3 c c c ( S ( = O ) ( = O ) C ( F ) ( F ) F ) c c 3 ) n 2 ) c c 1
+C C ( C ) ( C ) O C ( = O ) N c 1 c c c ( C # C c 2 n c c s 2 ) c c 1 [ N + ] ( = O ) [ O - ]
 C c 1 c c ( N 2 C C N ( c 3 c ( C ) c ( C ) c 4 c ( c 3 C ) C C ( C ) ( C ) O 4 ) C C 2 ) c c c 1 Cl
 C # C C C C C N ( C ( = O ) O C c 1 c c c c c 1 ) C ( = O ) O C c 1 c c c c c 1
 C O C ( = O ) c 1 c c ( C # C C ( N ) C ( C ) = O ) c 2 c c c c ( N ) c 2 n 1
