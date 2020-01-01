@@ -1,4 +1,4 @@
-# ICLR2020_Molecular GET
+# Molecular GET
 
 This is the primary code for the "GET-LT1" model in "Molecular Graph Enhanced Transformer for Retrosynthesis  Prediction". Our code is based on OpenNMT and DGL.  This is just a primary version and we will improve our code in the future.
 
